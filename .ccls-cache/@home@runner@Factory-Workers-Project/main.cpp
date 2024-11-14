@@ -49,10 +49,10 @@ public:
 
     //Print 
     void print() const {
-        std::cout << "Employee Report";
-        std::cout << "Name: " << name;
-        std::cout << "ID Number: " << idNumber;
-        std::cout << "Date of Hire" << hireDate;
+        std::cout << "Employee Report" << "\n";
+        std::cout << "Name: " << name << "\n";
+        std::cout << "ID Number: " << idNumber << "\n";
+        std::cout << "Date of Hire" << hireDate << "\n";
     }
 };
 
