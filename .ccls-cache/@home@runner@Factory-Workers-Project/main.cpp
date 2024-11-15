@@ -1,3 +1,7 @@
+//this program gives information about two employees in a production work environment who happen to also be employees (and friends) at the same company that I work at. Although, the numbers are also made up
+
+
+
 #include <iostream>
 #include <string>
 #include <iomanip>
