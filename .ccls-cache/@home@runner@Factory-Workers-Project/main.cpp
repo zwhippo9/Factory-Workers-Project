@@ -1,3 +1,8 @@
+// this program gives information of a team lead (or an owner) who just so happens to be the owner of the company that I work for. Of course, the numbers in this program are also made up
+
+
+
+
 #include <iostream>
 #include <string>
 using namespace std;
