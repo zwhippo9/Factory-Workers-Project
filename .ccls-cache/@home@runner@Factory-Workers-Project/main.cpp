@@ -1,3 +1,7 @@
+//this program gived information of a shift supervisor who happens to be my boss in real lif (i made up the numbers thoough)
+
+
+
 #include <iostream>
 #include <string>
 using namespace std;
