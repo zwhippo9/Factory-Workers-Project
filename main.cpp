@@ -52,7 +52,7 @@ public:
         std::cout << "Employee Report" << "\n";
         std::cout << "Name: " << name << "\n";
         std::cout << "ID Number: " << idNumber << "\n";
-        std::cout << "Date of Hire" << hireDate << "\n";
+        std::cout << "Date of Hire: " << hireDate << "\n";
     }
 };
 
