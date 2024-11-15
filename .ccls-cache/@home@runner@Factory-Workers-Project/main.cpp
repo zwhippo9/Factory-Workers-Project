@@ -1,3 +1,6 @@
+//this program gives information of an employee who works at a company. That employee just so happens to be me, but the numbers are made up because i dont have an id number.
+
+
 #include <iostream>
 #include <string>
 
